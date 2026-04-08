@@ -2,6 +2,10 @@
 
 💡 AI Enthusiast | Machine Learning | Computer Vision | Generative AI | Data Analysis | Data Science 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;Generative+AI+Explorer;Building+Real+AI+Systems" />
+</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Learn-Zilla;AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zahraa28&theme=tokyonight)
