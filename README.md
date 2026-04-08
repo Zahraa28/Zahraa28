@@ -2,12 +2,9 @@
 
 💡 AI Enthusiast | Machine Learning | Computer Vision | Generative AI | Data Analysis | Data Science 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=AI+Engineer;Computer+Vision;Generative+AI;Zilla+Learn)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI;Zilla+Learn)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zahraa28&theme=tokyonight)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Zahraa28&color=blue)
-
 
 ---
 
@@ -37,7 +34,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Zahraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahraa28&show_icons=true&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=Zahraa28&color=blue)
 
 ---
 
