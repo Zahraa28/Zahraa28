@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Zahraa Mohamed Ali (Zilla Learn)
+# 👋 Hi, I'm Zahraa Mohamed Ali (Learn-Zilla)
 
 💡 AI Enthusiast | Machine Learning | Computer Vision | Generative AI | Data Analysis | Data Science 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI;Zilla+Learn)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Learn-Zilla;AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zahraa28&theme=tokyonight)
 
@@ -11,8 +11,8 @@
 ## 🧠 About Me
 - 🤖 Passionate about AI, Deep Learning & Generative AI  
 - 🚀 Completed Applied AI Lab (6/6 projects)
-- 🚀 Completed Applied Data Science Lab (6/6 projects) 
-- 📊 Interested in Data Science & AI Research
+- 🚀 Completed Applied Data Science Lab (8/8 projects) 
+- 📊 Interested in Data Science & AI Research & Data Analysis
 - working in many feild like frontend | Backend |  
 
 ---
@@ -39,10 +39,10 @@
 ---
 
 ## 🚀 Projects
-- 🔹 YOLO Object Detection  
-- 🔹 Face Recognition (MTCNN + Inception-ResNet)  
-- 🔹 GAN Image Generator  
-- 🔹 Stable Diffusion Meme Generator  
+-  YOLO Object Detection  
+-  Face Recognition (MTCNN + Inception-ResNet)  
+-  GAN Image Generator  
+-  Stable Diffusion Meme Generator  
 
 ---
 
