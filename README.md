@@ -2,10 +2,6 @@
 
 💡 AI Enthusiast | Machine Learning | Computer Vision | Generative AI | Data Analysis | Data Science 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;Generative+AI+Explorer;Building+Real+AI+Systems" />
-</p>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Learn-Zilla;AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zahraa28&theme=tokyonight)
@@ -25,10 +21,16 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🤖 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TorchVision](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌐 Web & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
