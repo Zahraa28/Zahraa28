@@ -2,7 +2,7 @@
 
 💡 AI Enthusiast | Machine Learning | Computer Vision | Generative AI | Data Analysis | Data Science 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Learn-Zilla;AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI;Learn-Zilla)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zahraa28&theme=tokyonight)
 
@@ -84,17 +84,17 @@
 ---
 
 ## 🚀 Projects
--  YOLO Object Detection]  
--  Face Recognition (MTCNN + Inception-ResNet) 
--  GAN Image Generator (PyTorch implementation)
--  Stable Diffusion Meme Generator (Hugging Face)
--  multi_classification (ImageNet)
--  Animal Image Dataset (Web Scraping)
--  Food Model (ResNet50 / EfficientNet + YOLOv5)
--  Hand Gesture Recognition (CNN model)
--  Customer Segmentation (KMeans clustering Model)
--  cancer Prediction (Random Forest Model)
--  House price prediction (Linear Regression)
+-  1[YOLO Object Detection](https://github.com/Zahraa28/Object-Detection-with-YOLO)
+-  ![Face Recognition (MTCNN + Inception-ResNet)](https://github.com/Zahraa28/Face-Detection-Recognition-App)
+-  ![GAN Image Generator (PyTorch implementation)](https://github.com/Zahraa28/Generative-Adversarial-Networks-GAN-)
+-  ![Stable Diffusion Meme Generator (Hugging Face)](https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion)
+-  ![multi_classification (ImageNet)](https://github.com/Zahraa28/multi_classification)
+-  ![Animal Image Dataset (Web Scraping)](https://github.com/Zahraa28/animal-image-dataset)
+-  ![Food Model (ResNet50 / EfficientNet + YOLOv5)](https://github.com/Zahraa28/food-model)
+-  ![Hand Gesture Recognition (CNN model)](https://github.com/Zahraa28/hand-gesture-recognition)
+-  ![Customer Segmentation (KMeans clustering Model)](https://github.com/Zahraa28/K-Means-Model)
+-  ![Cancer Prediction (Random Forest Model)](https://github.com/Zahraa28/-Random-Forest-Model)
+-  ![House price prediction (Linear Regression)](https://github.com/Zahraa28/house-price-prediction)
 
 ---
 
