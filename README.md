@@ -9,11 +9,11 @@
 ---
 
 ## 🧠 About Me
-- 🤖 Passionate about AI, Deep Learning & Generative AI  
+- 🤖 Passionate about AI, ML, Deep Learning & Generative AI  
 - 🚀 Completed Applied AI Lab (6/6 projects)
 - 🚀 Completed Applied Data Science Lab (8/8 projects) 
 - 📊 Interested in Data Science & AI Research & Data Analysis
-- working in many feild like frontend | Backend |  Prompt Engineering | Agentic AI |  MLOps | Web Scraping
+- 🔥 working in many feild like: Frontend | Backend | Prompt Engineering | Agentic AI |  MLOps | Web Scraping
 
 ---
 
