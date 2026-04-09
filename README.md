@@ -84,10 +84,17 @@
 ---
 
 ## 🚀 Projects
--  ![YOLO Object Detection]()  
+-  YOLO Object Detection]  
 -  Face Recognition (MTCNN + Inception-ResNet) 
--  ![🎭 GAN Image Generator (PyTorch implementation)](https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion)
--  🖼 Stable Diffusion Meme Generator (Hugging Face)
+-  GAN Image Generator (PyTorch implementation)
+-  Stable Diffusion Meme Generator (Hugging Face)
+-  multi_classification (ImageNet)
+-  Animal Image Dataset (Web Scraping)
+-  Food Model (ResNet50 / EfficientNet + YOLOv5)
+-  Hand Gesture Recognition (CNN model)
+-  Customer Segmentation (KMeans clustering Model)
+-  cancer Prediction (Random Forest Model)
+-  House price prediction (Linear Regression)
 
 ---
 
