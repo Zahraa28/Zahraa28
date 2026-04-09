@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zahraa Mohamed Ali (Learn-Zilla)
 
-💡 AI Enthusiast | Machine Learning | Computer Vision | Generative AI | Data Analysis | Data Science 
+💡 Machine Learning | Computer Vision | Generative AI | Data Analysis | Data Science 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI;Learn-Zilla)
 
