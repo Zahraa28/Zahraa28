@@ -2,7 +2,7 @@
 
 💡 Machine Learning | Computer Vision | Generative AI | Data Analysis | Data Science 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI;Learn-Zilla)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Learn-Zilla;AI+Engineer;ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zahraa28&theme=tokyonight)
 
