@@ -84,17 +84,17 @@
 ---
 
 ## 🚀 Projects
--  1[YOLO Object Detection](https://github.com/Zahraa28/Object-Detection-with-YOLO)
--  ![Face Recognition (MTCNN + Inception-ResNet)](https://github.com/Zahraa28/Face-Detection-Recognition-App)
--  ![GAN Image Generator (PyTorch implementation)](https://github.com/Zahraa28/Generative-Adversarial-Networks-GAN-)
--  ![Stable Diffusion Meme Generator (Hugging Face)](https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion)
--  ![multi_classification (ImageNet)](https://github.com/Zahraa28/multi_classification)
--  ![Animal Image Dataset (Web Scraping)](https://github.com/Zahraa28/animal-image-dataset)
--  ![Food Model (ResNet50 / EfficientNet + YOLOv5)](https://github.com/Zahraa28/food-model)
--  ![Hand Gesture Recognition (CNN model)](https://github.com/Zahraa28/hand-gesture-recognition)
--  ![Customer Segmentation (KMeans clustering Model)](https://github.com/Zahraa28/K-Means-Model)
--  ![Cancer Prediction (Random Forest Model)](https://github.com/Zahraa28/-Random-Forest-Model)
--  ![House price prediction (Linear Regression)](https://github.com/Zahraa28/house-price-prediction)
+-  [YOLO Object Detection](https://github.com/Zahraa28/Object-Detection-with-YOLO)
+-  [Face Recognition (MTCNN + Inception-ResNet)](https://github.com/Zahraa28/Face-Detection-Recognition-App)
+-  [GAN Image Generator (PyTorch implementation)](https://github.com/Zahraa28/Generative-Adversarial-Networks-GAN-)
+-  [Stable Diffusion Meme Generator (Hugging Face)](https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion)
+-  [multi_classification (ImageNet)](https://github.com/Zahraa28/multi_classification)
+-  [Animal Image Dataset (Web Scraping)](https://github.com/Zahraa28/animal-image-dataset)
+-  [Food Model (ResNet50 / EfficientNet + YOLOv5)](https://github.com/Zahraa28/food-model)
+-  [Hand Gesture Recognition (CNN model)](https://github.com/Zahraa28/hand-gesture-recognition)
+-  [Customer Segmentation (KMeans clustering Model)](https://github.com/Zahraa28/K-Means-Model)
+-  [Cancer Prediction (Random Forest Model)](https://github.com/Zahraa28/-Random-Forest-Model)
+-  [House price prediction (Linear Regression)](https://github.com/Zahraa28/house-price-prediction)
 
 ---
 
